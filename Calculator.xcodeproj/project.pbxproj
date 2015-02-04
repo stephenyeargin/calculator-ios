@@ -77,11 +77,8 @@
 		DC30EE521A81E5C700546086 /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				DC30EE551A81E5C700546086 /* AppDelegate.swift */,
 				DC30EE571A81E5C700546086 /* ViewController.swift */,
 				DC30EE591A81E5C700546086 /* Main.storyboard */,
-				DC30EE5C1A81E5C700546086 /* Images.xcassets */,
-				DC30EE5E1A81E5C700546086 /* LaunchScreen.xib */,
 				DC30EE531A81E5C700546086 /* Supporting Files */,
 			);
 			path = Calculator;
@@ -90,6 +87,9 @@
 		DC30EE531A81E5C700546086 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DC30EE5C1A81E5C700546086 /* Images.xcassets */,
+				DC30EE5E1A81E5C700546086 /* LaunchScreen.xib */,
+				DC30EE551A81E5C700546086 /* AppDelegate.swift */,
 				DC30EE541A81E5C700546086 /* Info.plist */,
 			);
 			name = "Supporting Files";
